@@ -1,10 +1,4 @@
-OII! SOU O DEV E ANALISTA FABRICIO FRANÇA CE 👋
-
-📷Hoje trabalho em front end e analise de desenvolvimento
-
-📘Atualmente fazendo faculdade de ads e fazendo cursos de IA
-
-📞telefone para contato 85 97401-3967
+## Oiii eu sou o dev Fabricio França ce!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
