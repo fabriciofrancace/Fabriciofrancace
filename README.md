@@ -2,6 +2,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="frança-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="frança-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="frança-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="frança-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="frança-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/1030464774582063125/1084502020221837434/download20230300123542.png">
